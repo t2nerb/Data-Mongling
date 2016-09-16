@@ -2,45 +2,7 @@
 Data Wrangling
 ===============
 
-Overview
----------------
-
-This homework focuses on the first steps of getting data into a usable
-form to start asking very simple questions.  We'll start asking more
-complicated questions very soon!
-
-This homework should not be very difficult if you can program in
-Python.  If this homework is particularly challenging, you may not
-have enough of a programming background for the course and need to
-quickly get up to speed or consider another course.
-
-This program will be autograded.  That means that it's important to
-not change function names and to not add additional functionality that
-may improve the program but produce different results.  Make sure that
-your unit tests pass.  This what a successful set of unit tests will
-look like:
-
-    $ python3 tests.py
-    .....
-    ----------------------------------------------------------------------
-    Ran 5 tests in 0.002s
-    
-    OK
-
-If you do not get this result from running the tests, you will not get
-a good grade.  Be sure to also look at the test file carefully, as it
-will give you examples of how the functions you need to implement are
-supposed to work.
-
-As with all our homeworks, we will distribute the code via git.  You
-are strongly encouraged to clone the repository so that if there are
-changes in the assignment (e.g., to fix an error), you can quickly
-merge your modified code using git.  If you find an error, Pull
-requests are quite welcome!  Another advantage of cloning this
-repository is that you'll also be able to very quickly download
-subsequent homeworks by pulling from this upstream repository.
-
-District Margins (15 points)
+District Margins 
 ----------------------------
 
 In the US, our legislature is made up of representatives of individual
@@ -82,14 +44,9 @@ difference between the first place candidate and the second is 100.
     West Virginia,4,100.0
     Florida,27,100
 
-To complete this assignment you'll need to complete three functions:
-* district_margins
-* all_states
-* all_state_rows
-
 You should not need to modify the "main" function.
 
-Words Presidents Use (15 points)
+Words Presidents Use 
 -------------------------------
 
 Each year, the president of the United States is required to make a
@@ -111,7 +68,7 @@ a-z or A-Z.  The resulting words should be lower case.  This removes
 punctuation, short words, and other distracting information from the
 files.
 
-Writeup (10 points)
+Writeup 
 -----------------------
 
 Finally, include a brief plain-text file (not PDF, not Word, just a
@@ -120,10 +77,6 @@ plain ASCII text file) that explains:
 * What external resources (if any) you used
 * Any interesting observations you have from your results
 
-Submitting Your Code
+Course info
 -----------------------
-
-You'll need to submit your assignment (word_counts.py, districts.py,
-and writeup.txt) on
-[Moodle](https://moodle.cs.colorado.edu/course/view.php?id=49) as an
-upload.
+FA2016 CSCI3022
