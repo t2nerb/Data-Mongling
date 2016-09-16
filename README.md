@@ -68,15 +68,6 @@ a-z or A-Z.  The resulting words should be lower case.  This removes
 punctuation, short words, and other distracting information from the
 files.
 
-Writeup 
------------------------
-
-Finally, include a brief plain-text file (not PDF, not Word, just a
-plain ASCII text file) that explains:
-* The approach you took to solve the problem
-* What external resources (if any) you used
-* Any interesting observations you have from your results
-
 Course info
 -----------------------
 FA2016 CSCI3022
