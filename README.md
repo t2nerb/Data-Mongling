@@ -57,13 +57,7 @@ more interesting things with this later).
 We've placed all of these in a zip file, with each speech as a
 separate fill inside the zip archive.  To complete this assignment,
 you'll need to go through each of the files, find the words, and then
-sum them up.  This has been broken down into three functions you'll
-need to complete:
-* text_from_zipfile
-* words
-* accumulate_counts
-
-We define a word as four or more contiguous characters in the range
+sum them up. We define a word as four or more contiguous characters in the range
 a-z or A-Z.  The resulting words should be lower case.  This removes
 punctuation, short words, and other distracting information from the
 files.
